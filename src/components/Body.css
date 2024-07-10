@@ -1,0 +1,9 @@
+.body{
+    background-color: rgb(250, 249, 248);
+    height: max-content;
+}
+.bodyItems{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
